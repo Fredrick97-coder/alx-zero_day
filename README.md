@@ -1,1 +1,1 @@
-My first readme
+Keep going ninja
